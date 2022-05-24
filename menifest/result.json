@@ -1,0 +1,19 @@
+{
+	"name" : "Chanel Beier",
+	"street" : "3738 Toy Stream",
+	"city" : "Jannieburgh",
+	"zip" : 23294,
+	"user_name" : "Dana_Fay",
+	"user_id" : 1450,
+	"user_id" : "Darby.Beer@hotmail.com",
+	"favorite_colors" : [
+		"#494911",
+		"#430729",
+		"#07654d",
+		"#4e5224"
+	],
+	"reg_date" : "Sat Jul 12 2014 17:00:40 GMT+0200 (Central European Summer Time)",
+	"sign_ups" : {
+		"newsletter" : false
+	}
+}
